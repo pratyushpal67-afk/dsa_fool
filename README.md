@@ -30,4 +30,8 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0104-maximum-depth-of-binary-tree) |
+## String
+|  |
+| ------- |
+| [3110-score-of-a-string](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3110-score-of-a-string) |
 <!---LeetCode Topics End-->
