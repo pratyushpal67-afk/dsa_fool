@@ -59,4 +59,8 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0739-daily-temperatures) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
