@@ -5,7 +5,7 @@ public:
     }
     
     void push(int value) {
-        if(st.size() == 0) {
+        if(st.empty()) {
             st.push({value, value});
         } else {
             st.push({value, min(value, st.top().second)});
