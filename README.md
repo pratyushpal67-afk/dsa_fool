@@ -37,6 +37,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0739-daily-temperatures) |
 ## Breadth-First Search
 |  |
@@ -79,4 +80,8 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0222-count-complete-tree-nodes) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
