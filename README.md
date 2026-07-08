@@ -41,6 +41,7 @@
 | [0739-daily-temperatures](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1021-remove-outermost-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2000-reverse-prefix-of-word) |
+| [3174-clear-digits](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3174-clear-digits) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3110-score-of-a-string) |
+| [3174-clear-digits](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3174-clear-digits) |
 ## Array
 |  |
 | ------- |
@@ -66,6 +68,7 @@
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3174-clear-digits](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3174-clear-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
