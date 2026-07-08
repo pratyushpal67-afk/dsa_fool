@@ -40,6 +40,7 @@
 | [0155-min-stack](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1021-remove-outermost-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2000-reverse-prefix-of-word) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [0005-longest-palindromic-substring](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1021-remove-outermost-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3110-score-of-a-string) |
 ## Array
@@ -93,4 +95,5 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0005-longest-palindromic-substring) |
+| [2000-reverse-prefix-of-word](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
