@@ -56,6 +56,7 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0739-daily-temperatures) |
+| [0941-valid-mountain-array](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0941-valid-mountain-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
