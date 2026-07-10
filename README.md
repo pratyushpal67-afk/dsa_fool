@@ -86,6 +86,7 @@
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -102,5 +103,6 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0005-longest-palindromic-substring) |
+| [0876-middle-of-the-linked-list](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0876-middle-of-the-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
