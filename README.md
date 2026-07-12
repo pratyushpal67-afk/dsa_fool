@@ -67,6 +67,7 @@
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0041-first-missing-positive) |
 | [0739-daily-temperatures](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0739-daily-temperatures) |
 | [0941-valid-mountain-array](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0941-valid-mountain-array) |
 | [1572-matrix-diagonal-sum](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1572-matrix-diagonal-sum) |
@@ -116,4 +117,8 @@
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0700-search-in-a-binary-search-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
