@@ -128,4 +128,8 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0143-reorder-list) |
+## Math
+|  |
+| ------- |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 <!---LeetCode Topics End-->
