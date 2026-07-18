@@ -1,6 +1,15 @@
 class Solution {
 public:
     bool isMiddleElementUnique(vector<int>& nums) {
-        return count(nums.begin(), nums.end(), nums[nums.size() / 2]) == 1;
+        int n = nums.size();
+        int mid = nums[n / 2];
+        int freq = 0;
+
+        for (auto x : nums) {
+            if (x == mid)
+                freq++;
+        }
+
+        return freq == 1;
     }
 };
