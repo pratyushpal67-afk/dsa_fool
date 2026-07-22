@@ -116,6 +116,7 @@
 | [0143-reorder-list](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0143-reorder-list) |
 | [0876-middle-of-the-linked-list](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0876-middle-of-the-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2000-reverse-prefix-of-word) |
+| [2396-strictly-palindromic-number](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2396-strictly-palindromic-number) |
 ## Matrix
 |  |
 | ------- |
@@ -139,6 +140,7 @@
 | [0029-divide-two-integers](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0029-divide-two-integers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2396-strictly-palindromic-number](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2396-strictly-palindromic-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -151,4 +153,8 @@
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
