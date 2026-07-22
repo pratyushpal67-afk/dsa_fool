@@ -65,6 +65,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3174-clear-digits) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Array
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0041-first-missing-positive) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Recursion
 |  |
 | ------- |
