@@ -61,6 +61,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0020-valid-parentheses) |
+| [0389-find-the-difference](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0520-detect-capital) |
 | [1021-remove-outermost-parentheses](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1021-remove-outermost-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2000-reverse-prefix-of-word) |
@@ -107,6 +108,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0029-divide-two-integers) |
 | [0222-count-complete-tree-nodes](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0222-count-complete-tree-nodes) |
+| [0389-find-the-difference](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0389-find-the-difference) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Design
 |  |
@@ -133,6 +135,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0041-first-missing-positive) |
+| [0389-find-the-difference](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0389-find-the-difference) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Recursion
 |  |
@@ -169,6 +172,7 @@
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0220-contains-duplicate-iii) |
+| [0389-find-the-difference](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0389-find-the-difference) |
 ## Bucket Sort
 |  |
 | ------- |
