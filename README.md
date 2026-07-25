@@ -107,6 +107,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0029-divide-two-integers) |
+| [0191-number-of-1-bits](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0222-count-complete-tree-nodes) |
 | [0389-find-the-difference](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0389-find-the-difference) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -181,4 +182,8 @@
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0220-contains-duplicate-iii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
