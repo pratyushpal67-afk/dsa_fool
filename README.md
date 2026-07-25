@@ -64,6 +64,7 @@
 | [0389-find-the-difference](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0520-detect-capital) |
 | [1021-remove-outermost-parentheses](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1021-remove-outermost-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2000-reverse-prefix-of-word](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3110-score-of-a-string) |
@@ -138,6 +139,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0041-first-missing-positive) |
 | [0389-find-the-difference](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0389-find-the-difference) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Recursion
 |  |
@@ -189,4 +191,8 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0191-number-of-1-bits) |
+## Counting
+|  |
+| ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1781-sum-of-beauty-of-all-substrings) |
 <!---LeetCode Topics End-->
