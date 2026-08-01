@@ -63,6 +63,7 @@
 | [0020-valid-parentheses](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0020-valid-parentheses) |
 | [0389-find-the-difference](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0520-detect-capital) |
+| [0692-top-k-frequent-words](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0692-top-k-frequent-words) |
 | [1021-remove-outermost-parentheses](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1021-remove-outermost-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2000-reverse-prefix-of-word](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2000-reverse-prefix-of-word) |
@@ -76,6 +77,7 @@
 | [0041-first-missing-positive](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0041-first-missing-positive) |
 | [0220-contains-duplicate-iii](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0220-contains-duplicate-iii) |
 | [0347-top-k-frequent-elements](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0692-top-k-frequent-words) |
 | [0739-daily-temperatures](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0739-daily-temperatures) |
 | [0941-valid-mountain-array](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0941-valid-mountain-array) |
 | [1572-matrix-diagonal-sum](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1572-matrix-diagonal-sum) |
@@ -141,6 +143,7 @@
 | [0041-first-missing-positive](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0041-first-missing-positive) |
 | [0347-top-k-frequent-elements](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0389-find-the-difference) |
+| [0692-top-k-frequent-words](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0692-top-k-frequent-words) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Recursion
@@ -182,11 +185,13 @@
 | [0220-contains-duplicate-iii](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0220-contains-duplicate-iii) |
 | [0347-top-k-frequent-elements](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0389-find-the-difference) |
+| [0692-top-k-frequent-words](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0220-contains-duplicate-iii) |
 | [0347-top-k-frequent-elements](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0692-top-k-frequent-words) |
 ## Ordered Set
 |  |
 | ------- |
@@ -200,13 +205,19 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0692-top-k-frequent-words) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0347-top-k-frequent-elements) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
