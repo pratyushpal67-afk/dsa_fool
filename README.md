@@ -79,6 +79,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0041-first-missing-positive) |
+| [0078-subsets](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0078-subsets) |
 | [0220-contains-duplicate-iii](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0220-contains-duplicate-iii) |
 | [0347-top-k-frequent-elements](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0692-top-k-frequent-words) |
@@ -119,6 +120,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0231-power-of-two) |
@@ -173,6 +175,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0078-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
