@@ -125,6 +125,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0461-hamming-distance) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Design
