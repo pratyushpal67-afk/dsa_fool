@@ -80,6 +80,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0041-first-missing-positive) |
 | [0078-subsets](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0078-subsets) |
+| [0204-count-primes](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0204-count-primes) |
 | [0220-contains-duplicate-iii](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0220-contains-duplicate-iii) |
 | [0260-single-number-iii](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0347-top-k-frequent-elements) |
@@ -171,6 +172,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0029-divide-two-integers) |
+| [0204-count-primes](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0231-power-of-two) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -188,6 +190,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0204-count-primes) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Brainteaser
 |  |
@@ -239,4 +242,20 @@
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0692-top-k-frequent-words) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
