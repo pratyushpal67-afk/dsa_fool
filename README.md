@@ -104,6 +104,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0005-longest-palindromic-substring) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1510-stone-game-iv](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1510-stone-game-iv) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -174,6 +175,7 @@
 | [0029-divide-two-integers](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0029-divide-two-integers) |
 | [0204-count-primes](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0231-power-of-two) |
+| [1510-stone-game-iv](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2396-strictly-palindromic-number](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2396-strictly-palindromic-number) |
@@ -258,4 +260,24 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0204-count-primes) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
