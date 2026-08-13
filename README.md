@@ -98,6 +98,7 @@
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3174-clear-digits](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3174-clear-digits) |
 ## Dynamic Programming
 |  |
@@ -115,6 +116,7 @@
 | [0143-reorder-list](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0143-reorder-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0876-middle-of-the-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Binary Search
 |  |
 | ------- |
