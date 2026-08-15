@@ -91,6 +91,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3731-find-missing-elements) |
 ## Simulation
@@ -134,6 +135,7 @@
 | [0461-hamming-distance](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0461-hamming-distance) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Design
 |  |
 | ------- |
