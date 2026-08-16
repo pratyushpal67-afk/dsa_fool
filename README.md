@@ -116,6 +116,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0143-reorder-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0876-middle-of-the-linked-list) |
@@ -175,11 +176,13 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0231-power-of-two) |
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0029-divide-two-integers) |
 | [0204-count-primes](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0231-power-of-two) |
