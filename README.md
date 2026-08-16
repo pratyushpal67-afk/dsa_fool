@@ -63,6 +63,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0020-valid-parentheses) |
 | [0389-find-the-difference](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0389-find-the-difference) |
@@ -163,6 +164,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0041-first-missing-positive) |
 | [0347-top-k-frequent-elements](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0389-find-the-difference) |
@@ -207,6 +209,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0220-contains-duplicate-iii](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0220-contains-duplicate-iii) |
 ## Sorting
 |  |
