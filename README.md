@@ -52,6 +52,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0155-min-stack) |
+| [0735-asteroid-collision](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1021-remove-outermost-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2000-reverse-prefix-of-word) |
@@ -90,6 +91,7 @@
 | [0260-single-number-iii](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0692-top-k-frequent-words) |
+| [0735-asteroid-collision](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0739-daily-temperatures) |
 | [0941-valid-mountain-array](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0941-valid-mountain-array) |
 | [1572-matrix-diagonal-sum](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1572-matrix-diagonal-sum) |
@@ -103,6 +105,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0735-asteroid-collision) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2181-merge-nodes-in-between-zeros) |
