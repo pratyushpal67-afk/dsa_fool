@@ -52,6 +52,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1021-remove-outermost-parentheses) |
@@ -91,6 +92,7 @@
 | [0220-contains-duplicate-iii](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0220-contains-duplicate-iii) |
 | [0260-single-number-iii](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0739-daily-temperatures) |
@@ -120,6 +122,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
@@ -178,6 +181,7 @@
 | [0041-first-missing-positive](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0041-first-missing-positive) |
 | [0347-top-k-frequent-elements](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0389-find-the-difference) |
+| [0496-next-greater-element-i](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0692-top-k-frequent-words) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3731-find-missing-elements](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3731-find-missing-elements) |
