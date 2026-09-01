@@ -83,6 +83,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3174-clear-digits) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Array
 |  |
@@ -211,6 +212,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2396-strictly-palindromic-number](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2396-strictly-palindromic-number) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Backtracking
 |  |
