@@ -79,6 +79,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1021-remove-outermost-parentheses) |
 | [1154-day-of-the-year](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1154-day-of-the-year) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2000-reverse-prefix-of-word](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3110-score-of-a-string) |
@@ -210,6 +211,7 @@
 | [1323-maximum-69-number](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1323-maximum-69-number) |
 | [1510-stone-game-iv](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2396-strictly-palindromic-number](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2396-strictly-palindromic-number) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
