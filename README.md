@@ -82,6 +82,7 @@
 | [1812-determine-color-of-a-chessboard-square](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2000-reverse-prefix-of-word](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2351-first-letter-to-appear-twice](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2351-first-letter-to-appear-twice) |
 | [3110-score-of-a-string](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3174-clear-digits) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
@@ -154,6 +155,7 @@
 | [0461-hamming-distance](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0461-hamming-distance) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2351-first-letter-to-appear-twice) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Design
@@ -189,6 +191,7 @@
 | [0496-next-greater-element-i](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0692-top-k-frequent-words) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2351-first-letter-to-appear-twice](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2351-first-letter-to-appear-twice) |
 | [3731-find-missing-elements](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Recursion
@@ -268,6 +271,7 @@
 | [0347-top-k-frequent-elements](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0692-top-k-frequent-words) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2351-first-letter-to-appear-twice](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2351-first-letter-to-appear-twice) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
