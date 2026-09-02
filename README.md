@@ -94,6 +94,7 @@
 | [0041-first-missing-positive](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0078-subsets) |
+| [0128-longest-consecutive-sequence](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0128-longest-consecutive-sequence) |
 | [0204-count-primes](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0204-count-primes) |
 | [0220-contains-duplicate-iii](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0220-contains-duplicate-iii) |
 | [0260-single-number-iii](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0260-single-number-iii) |
@@ -190,6 +191,7 @@
 | [0013-roman-to-integer](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0496-next-greater-element-i) |
@@ -335,4 +337,8 @@
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0525-contiguous-array) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
