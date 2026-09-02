@@ -73,6 +73,7 @@
 | [0005-longest-palindromic-substring](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0520-detect-capital) |
 | [0692-top-k-frequent-words](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0692-top-k-frequent-words) |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0078-subsets) |
 | [0204-count-primes](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0204-count-primes) |
 | [0220-contains-duplicate-iii](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0220-contains-duplicate-iii) |
@@ -187,6 +189,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0496-next-greater-element-i) |
@@ -247,6 +250,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0049-group-anagrams) |
 | [0220-contains-duplicate-iii](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0220-contains-duplicate-iii) |
 | [0347-top-k-frequent-elements](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0389-find-the-difference) |
