@@ -101,6 +101,7 @@
 | [0347-top-k-frequent-elements](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0739-daily-temperatures) |
@@ -196,6 +197,7 @@
 | [0389-find-the-difference](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0692-top-k-frequent-words) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2351-first-letter-to-appear-twice](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2351-first-letter-to-appear-twice) |
@@ -337,6 +339,7 @@
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0560-subarray-sum-equals-k) |
 ## Union-Find
 |  |
 | ------- |
