@@ -100,6 +100,7 @@
 | [0260-single-number-iii](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0692-top-k-frequent-words) |
@@ -199,6 +200,7 @@
 | [0347-top-k-frequent-elements](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0692-top-k-frequent-words) |
@@ -223,6 +225,7 @@
 | [0029-divide-two-integers](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0029-divide-two-integers) |
 | [0204-count-primes](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0231-power-of-two) |
+| [0523-continuous-subarray-sum](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0523-continuous-subarray-sum) |
 | [1154-day-of-the-year](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1154-day-of-the-year) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1323-maximum-69-number](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1323-maximum-69-number) |
@@ -345,6 +348,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0930-binary-subarrays-with-sum) |
@@ -353,4 +357,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0128-longest-consecutive-sequence) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
