@@ -119,6 +119,7 @@
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3903-smallest-stable-index-i) |
 ## Simulation
 |  |
 | ------- |
@@ -357,6 +358,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3903-smallest-stable-index-i](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3903-smallest-stable-index-i) |
 ## Union-Find
 |  |
 | ------- |
