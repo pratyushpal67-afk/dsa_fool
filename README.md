@@ -109,6 +109,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0930-binary-subarrays-with-sum) |
 | [0941-valid-mountain-array](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0941-valid-mountain-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1004-max-consecutive-ones-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1572-matrix-diagonal-sum](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1572-matrix-diagonal-sum) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -155,6 +156,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0222-count-complete-tree-nodes) |
+| [1004-max-consecutive-ones-iii](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -266,6 +268,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0220-contains-duplicate-iii](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0220-contains-duplicate-iii) |
 | [0930-binary-subarrays-with-sum](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -359,6 +362,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1004-max-consecutive-ones-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3903-smallest-stable-index-i](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3903-smallest-stable-index-i) |
 ## Union-Find
