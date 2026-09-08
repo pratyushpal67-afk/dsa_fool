@@ -75,6 +75,7 @@
 | [0020-valid-parentheses](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0520-detect-capital) |
 | [0692-top-k-frequent-words](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0692-top-k-frequent-words) |
 | [1021-remove-outermost-parentheses](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1021-remove-outermost-parentheses) |
@@ -205,6 +206,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0525-contiguous-array) |
@@ -267,6 +269,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0220-contains-duplicate-iii](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0220-contains-duplicate-iii) |
+| [0424-longest-repeating-character-replacement](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
