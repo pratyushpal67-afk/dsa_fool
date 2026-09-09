@@ -77,6 +77,7 @@
 | [0389-find-the-difference](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0520-detect-capital) |
+| [0567-permutation-in-string](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0692-top-k-frequent-words) |
 | [1021-remove-outermost-parentheses](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1021-remove-outermost-parentheses) |
 | [1154-day-of-the-year](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1154-day-of-the-year) |
@@ -183,6 +184,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0005-longest-palindromic-substring) |
 | [0143-reorder-list](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0143-reorder-list) |
+| [0567-permutation-in-string](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0876-middle-of-the-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2000-reverse-prefix-of-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -211,6 +213,7 @@
 | [0523-continuous-subarray-sum](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0692-top-k-frequent-words) |
 | [0930-binary-subarrays-with-sum](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -271,6 +274,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0220-contains-duplicate-iii](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0220-contains-duplicate-iii) |
 | [0424-longest-repeating-character-replacement](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
