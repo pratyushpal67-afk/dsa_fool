@@ -113,6 +113,7 @@
 | [0941-valid-mountain-array](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0941-valid-mountain-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1248-count-number-of-nice-subarrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1572-matrix-diagonal-sum](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1572-matrix-diagonal-sum) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -219,6 +220,7 @@
 | [0692-top-k-frequent-words](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0692-top-k-frequent-words) |
 | [0930-binary-subarrays-with-sum](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1248-count-number-of-nice-subarrays) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2351-first-letter-to-appear-twice](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2351-first-letter-to-appear-twice) |
 | [3731-find-missing-elements](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3731-find-missing-elements) |
@@ -241,6 +243,7 @@
 | [0231-power-of-two](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0231-power-of-two) |
 | [0523-continuous-subarray-sum](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0523-continuous-subarray-sum) |
 | [1154-day-of-the-year](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1154-day-of-the-year) |
+| [1248-count-number-of-nice-subarrays](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1323-maximum-69-number](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1323-maximum-69-number) |
 | [1510-stone-game-iv](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1510-stone-game-iv) |
@@ -281,6 +284,7 @@
 | [0567-permutation-in-string](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sorting
 |  |
 | ------- |
@@ -375,6 +379,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1248-count-number-of-nice-subarrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3903-smallest-stable-index-i](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3903-smallest-stable-index-i) |
 ## Union-Find
