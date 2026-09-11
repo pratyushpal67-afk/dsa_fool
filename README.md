@@ -123,6 +123,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [3483-unique-3-digit-even-numbers](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3731-find-missing-elements) |
@@ -226,6 +227,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1248-count-number-of-nice-subarrays) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2351-first-letter-to-appear-twice](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2351-first-letter-to-appear-twice) |
+| [3483-unique-3-digit-even-numbers](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Recursion
@@ -235,6 +237,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0231-power-of-two) |
+| [3483-unique-3-digit-even-numbers](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -274,6 +277,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0204-count-primes) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3483-unique-3-digit-even-numbers](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3483-unique-3-digit-even-numbers) |
 ## Brainteaser
 |  |
 | ------- |
