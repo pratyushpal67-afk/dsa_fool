@@ -85,6 +85,7 @@
 | [0692-top-k-frequent-words](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0692-top-k-frequent-words) |
 | [1021-remove-outermost-parentheses](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1021-remove-outermost-parentheses) |
 | [1154-day-of-the-year](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1154-day-of-the-year) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2000-reverse-prefix-of-word](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2000-reverse-prefix-of-word) |
@@ -225,6 +226,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2351-first-letter-to-appear-twice](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2351-first-letter-to-appear-twice) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3483-unique-3-digit-even-numbers) |
@@ -292,6 +294,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sorting
 |  |
 | ------- |
