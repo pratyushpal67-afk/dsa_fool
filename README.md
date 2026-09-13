@@ -262,6 +262,7 @@
 | [2396-strictly-palindromic-number](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2396-strictly-palindromic-number) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3875-construct-uniform-parity-array-i) |
@@ -344,6 +345,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0204-count-primes) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Primality Test
 |  |
 | ------- |
