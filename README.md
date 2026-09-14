@@ -56,6 +56,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1021-remove-outermost-parentheses) |
@@ -107,6 +108,7 @@
 | [0260-single-number-iii](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0560-subarray-sum-equals-k) |
@@ -149,6 +151,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0739-daily-temperatures) |
 ## Linked List
 |  |
