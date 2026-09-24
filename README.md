@@ -61,6 +61,7 @@
 | [0739-daily-temperatures](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1021-remove-outermost-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2000-reverse-prefix-of-word) |
+| [2104-sum-of-subarray-ranges](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2104-sum-of-subarray-ranges) |
 | [3174-clear-digits](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3174-clear-digits) |
 ## Breadth-First Search
 |  |
@@ -124,6 +125,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1572-matrix-diagonal-sum) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2104-sum-of-subarray-ranges](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/3483-unique-3-digit-even-numbers) |
@@ -153,6 +155,7 @@
 | [0496-next-greater-element-i](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0739-daily-temperatures) |
+| [2104-sum-of-subarray-ranges](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2104-sum-of-subarray-ranges) |
 ## Linked List
 |  |
 | ------- |
