@@ -59,6 +59,7 @@
 | [0503-next-greater-element-ii](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0739-daily-temperatures) |
+| [0907-sum-of-subarray-minimums](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1021-remove-outermost-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2000-reverse-prefix-of-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2104-sum-of-subarray-ranges) |
@@ -116,6 +117,7 @@
 | [0692-top-k-frequent-words](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0739-daily-temperatures) |
+| [0907-sum-of-subarray-minimums](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0930-binary-subarrays-with-sum) |
 | [0941-valid-mountain-array](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0941-valid-mountain-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -147,6 +149,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0005-longest-palindromic-substring) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0907-sum-of-subarray-minimums](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0907-sum-of-subarray-minimums) |
 | [1510-stone-game-iv](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1510-stone-game-iv) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Monotonic Stack
@@ -155,6 +158,7 @@
 | [0496-next-greater-element-i](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0739-daily-temperatures) |
+| [0907-sum-of-subarray-minimums](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/2104-sum-of-subarray-ranges) |
 ## Linked List
 |  |
