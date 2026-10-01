@@ -55,6 +55,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0735-asteroid-collision) |
@@ -82,6 +83,7 @@
 | [0020-valid-parentheses](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0389-find-the-difference) |
+| [0402-remove-k-digits](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0567-permutation-in-string) |
@@ -155,6 +157,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0739-daily-temperatures) |
@@ -391,6 +394,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/0402-remove-k-digits) |
 | [1323-maximum-69-number](https://github.com/pratyushpal67-afk/dsa_fool/tree/master/1323-maximum-69-number) |
 ## Prefix Sum
 |  |
